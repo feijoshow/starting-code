@@ -851,9 +851,6 @@ input:checked + .slider-round:before {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  /* TODO: Add responsive styles for mobile */
-  /* HINT: Adjust component-grid, btn-group, nav, and tab-header */
-
   .component-grid {
     /* Change grid to single column */
   }
